@@ -2,4 +2,4 @@
 <h2><a href="https://travel-advizor.netlify.app">Live Demo </h1>
  
 <h5>screenshots</h5>
-<img src="./images/op.ss.png" />
+<img src="/images/op.ss.png" alt="output_ss"/>
